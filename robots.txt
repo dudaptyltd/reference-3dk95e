@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dudaptyltd.github.io/reference-3dk95e/sitemap.xml
